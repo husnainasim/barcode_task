@@ -1,0 +1,931 @@
+[
+  {
+    "source_image": "barcode_1.jpg",
+    "decoded": true,
+    "data": "01101000",
+    "type": "Code 128",
+    "orientation": -90,
+    "quad": {
+      "top_left": [
+        824,
+        1012
+      ],
+      "top_right": [
+        824,
+        674
+      ],
+      "bottom_right": [
+        746,
+        649
+      ],
+      "bottom_left": [
+        746,
+        994
+      ]
+    },
+    "output_file": "barcode_1__01101000.jpg"
+  },
+  {
+    "source_image": "barcode_2.jpg",
+    "decoded": false,
+    "data": null,
+    "type": null,
+    "orientation": null,
+    "quad": null,
+    "output_file": "barcode_2__UNREAD.jpg"
+  },
+  {
+    "source_image": "barcode_3.jpg",
+    "decoded": true,
+    "data": "01001011",
+    "type": "Code 128",
+    "orientation": 0,
+    "quad": {
+      "top_left": [
+        287,
+        379
+      ],
+      "top_right": [
+        653,
+        379
+      ],
+      "bottom_right": [
+        670,
+        486
+      ],
+      "bottom_left": [
+        299,
+        486
+      ]
+    },
+    "output_file": "barcode_3__01001011.jpg"
+  },
+  {
+    "source_image": "barcode_4.jpg",
+    "decoded": true,
+    "data": "01110011",
+    "type": "Code 128",
+    "orientation": 0,
+    "quad": {
+      "top_left": [
+        142,
+        246
+      ],
+      "top_right": [
+        462,
+        246
+      ],
+      "bottom_right": [
+        468,
+        372
+      ],
+      "bottom_left": [
+        153,
+        372
+      ]
+    },
+    "output_file": "barcode_4__01110011.jpg"
+  },
+  {
+    "source_image": "barcode_5.jpg",
+    "decoded": true,
+    "data": "01110010",
+    "type": "Code 128",
+    "orientation": 0,
+    "quad": {
+      "top_left": [
+        210,
+        292
+      ],
+      "top_right": [
+        538,
+        292
+      ],
+      "bottom_right": [
+        528,
+        426
+      ],
+      "bottom_left": [
+        195,
+        426
+      ]
+    },
+    "output_file": "barcode_5__01110010.jpg"
+  },
+  {
+    "source_image": "barcode_6.jpg",
+    "decoded": true,
+    "data": "01101000",
+    "type": "Code 128",
+    "orientation": 0,
+    "quad": {
+      "top_left": [
+        245,
+        373
+      ],
+      "top_right": [
+        577,
+        373
+      ],
+      "bottom_right": [
+        572,
+        515
+      ],
+      "bottom_left": [
+        249,
+        515
+      ]
+    },
+    "output_file": "barcode_6__01101000.jpg"
+  },
+  {
+    "source_image": "barcode_7.jpg",
+    "decoded": false,
+    "data": null,
+    "type": null,
+    "orientation": null,
+    "quad": null,
+    "output_file": "barcode_7__UNREAD.jpg"
+  },
+  {
+    "source_image": "barcode_8.jpg",
+    "decoded": true,
+    "data": "01110011",
+    "type": "Code 128",
+    "orientation": 0,
+    "quad": {
+      "top_left": [
+        145,
+        241
+      ],
+      "top_right": [
+        463,
+        241
+      ],
+      "bottom_right": [
+        468,
+        376
+      ],
+      "bottom_left": [
+        153,
+        376
+      ]
+    },
+    "output_file": "barcode_8__01110011.jpg"
+  },
+  {
+    "source_image": "barcode_9.jpg",
+    "decoded": true,
+    "data": "01110011",
+    "type": "Code 128",
+    "orientation": 0,
+    "quad": {
+      "top_left": [
+        145,
+        241
+      ],
+      "top_right": [
+        463,
+        241
+      ],
+      "bottom_right": [
+        468,
+        376
+      ],
+      "bottom_left": [
+        153,
+        376
+      ]
+    },
+    "output_file": "barcode_9__01110011.jpg"
+  },
+  {
+    "source_image": "barcode_10.jpg",
+    "decoded": true,
+    "data": "01110010",
+    "type": "Code 128",
+    "orientation": 0,
+    "quad": {
+      "top_left": [
+        217,
+        314
+      ],
+      "top_right": [
+        545,
+        314
+      ],
+      "bottom_right": [
+        536,
+        450
+      ],
+      "bottom_left": [
+        203,
+        450
+      ]
+    },
+    "output_file": "barcode_10__01110010.jpg"
+  },
+  {
+    "source_image": "barcode_11.jpg",
+    "decoded": true,
+    "data": "01001011",
+    "type": "Code 128",
+    "orientation": 0,
+    "quad": {
+      "top_left": [
+        97,
+        119
+      ],
+      "top_right": [
+        464,
+        119
+      ],
+      "bottom_right": [
+        481,
+        231
+      ],
+      "bottom_left": [
+        110,
+        231
+      ]
+    },
+    "output_file": "barcode_11__01001011.jpg"
+  },
+  {
+    "source_image": "barcode_12.jpg",
+    "decoded": true,
+    "data": "01001011",
+    "type": "Code 128",
+    "orientation": 0,
+    "quad": {
+      "top_left": [
+        200,
+        397
+      ],
+      "top_right": [
+        952,
+        397
+      ],
+      "bottom_right": [
+        957,
+        441
+      ],
+      "bottom_left": [
+        207,
+        441
+      ]
+    },
+    "output_file": "barcode_12__01001011.jpg"
+  },
+  {
+    "source_image": "barcode_13.jpg",
+    "decoded": true,
+    "data": "01110010",
+    "type": "Code 128",
+    "orientation": 0,
+    "quad": {
+      "top_left": [
+        418,
+        514
+      ],
+      "top_right": [
+        1021,
+        514
+      ],
+      "bottom_right": [
+        985,
+        756
+      ],
+      "bottom_left": [
+        368,
+        756
+      ]
+    },
+    "output_file": "barcode_13__01110010.jpg"
+  },
+  {
+    "source_image": "barcode_14.jpg",
+    "decoded": true,
+    "data": "01100001",
+    "type": "Code 128",
+    "orientation": 90,
+    "quad": {
+      "top_left": [
+        672,
+        207
+      ],
+      "top_right": [
+        672,
+        862
+      ],
+      "bottom_right": [
+        572,
+        880
+      ],
+      "bottom_left": [
+        572,
+        238
+      ]
+    },
+    "output_file": "barcode_14__01100001.jpg"
+  },
+  {
+    "source_image": "barcode_15.jpg",
+    "decoded": true,
+    "data": "01110011",
+    "type": "Code 128",
+    "orientation": 0,
+    "quad": {
+      "top_left": [
+        285,
+        463
+      ],
+      "top_right": [
+        846,
+        463
+      ],
+      "bottom_right": [
+        848,
+        683
+      ],
+      "bottom_left": [
+        299,
+        683
+      ]
+    },
+    "output_file": "barcode_15__01110011.jpg"
+  },
+  {
+    "source_image": "barcode_16.jpg",
+    "decoded": true,
+    "data": "01101000",
+    "type": "Code 128",
+    "orientation": 0,
+    "quad": {
+      "top_left": [
+        272,
+        444
+      ],
+      "top_right": [
+        885,
+        444
+      ],
+      "bottom_right": [
+        884,
+        607
+      ],
+      "bottom_left": [
+        284,
+        607
+      ]
+    },
+    "output_file": "barcode_16__01101000.jpg"
+  },
+  {
+    "source_image": "barcode_17.jpg",
+    "decoded": true,
+    "data": "01101000",
+    "type": "Code 128",
+    "orientation": 0,
+    "quad": {
+      "top_left": [
+        384,
+        673
+      ],
+      "top_right": [
+        902,
+        673
+      ],
+      "bottom_right": [
+        907,
+        887
+      ],
+      "bottom_left": [
+        399,
+        887
+      ]
+    },
+    "output_file": "barcode_17__01101000.jpg"
+  },
+  {
+    "source_image": "barcode_18.jpg",
+    "decoded": true,
+    "data": "01001011",
+    "type": "Code 128",
+    "orientation": 0,
+    "quad": {
+      "top_left": [
+        108,
+        224
+      ],
+      "top_right": [
+        679,
+        224
+      ],
+      "bottom_right": [
+        690,
+        426
+      ],
+      "bottom_left": [
+        117,
+        426
+      ]
+    },
+    "output_file": "barcode_18__01001011.jpg"
+  },
+  {
+    "source_image": "barcode_19.jpg",
+    "decoded": true,
+    "data": "01100001",
+    "type": "Code 128",
+    "orientation": 90,
+    "quad": {
+      "top_left": [
+        626,
+        177
+      ],
+      "top_right": [
+        626,
+        769
+      ],
+      "bottom_right": [
+        514,
+        781
+      ],
+      "bottom_left": [
+        514,
+        200
+      ]
+    },
+    "output_file": "barcode_19__01100001.jpg"
+  },
+  {
+    "source_image": "barcode_20.jpg",
+    "decoded": false,
+    "data": null,
+    "type": null,
+    "orientation": null,
+    "quad": null,
+    "output_file": "barcode_20__UNREAD.jpg"
+  },
+  {
+    "source_image": "barcode_21.jpg",
+    "decoded": true,
+    "data": "ABC-1344",
+    "type": "Code 39",
+    "orientation": 90,
+    "quad": {
+      "top_left": [
+        594,
+        243
+      ],
+      "top_right": [
+        594,
+        957
+      ],
+      "bottom_right": [
+        543,
+        948
+      ],
+      "bottom_left": [
+        543,
+        237
+      ]
+    },
+    "output_file": "barcode_21__ABC-1344.jpg"
+  },
+  {
+    "source_image": "barcode_22.jpg",
+    "decoded": false,
+    "data": null,
+    "type": null,
+    "orientation": null,
+    "quad": null,
+    "output_file": "barcode_22__UNREAD.jpg"
+  },
+  {
+    "source_image": "barcode_23.jpg",
+    "decoded": true,
+    "data": "12345878",
+    "type": "EAN-8",
+    "orientation": 0,
+    "quad": {
+      "top_left": [
+        335,
+        349
+      ],
+      "top_right": [
+        715,
+        349
+      ],
+      "bottom_right": [
+        713,
+        539
+      ],
+      "bottom_left": [
+        336,
+        539
+      ]
+    },
+    "output_file": "barcode_23__12345878.jpg"
+  },
+  {
+    "source_image": "barcode_24.jpg",
+    "decoded": true,
+    "data": "12348879",
+    "type": "EAN-8",
+    "orientation": 0,
+    "quad": {
+      "top_left": [
+        138,
+        96
+      ],
+      "top_right": [
+        503,
+        96
+      ],
+      "bottom_right": [
+        501,
+        168
+      ],
+      "bottom_left": [
+        138,
+        168
+      ]
+    },
+    "output_file": "barcode_24__12348879.jpg"
+  },
+  {
+    "source_image": "barcode_25.jpg",
+    "decoded": true,
+    "data": "12349012",
+    "type": "EAN-8",
+    "orientation": 180,
+    "quad": {
+      "top_left": [
+        501,
+        313
+      ],
+      "top_right": [
+        105,
+        313
+      ],
+      "bottom_right": [
+        94,
+        335
+      ],
+      "bottom_left": [
+        491,
+        335
+      ]
+    },
+    "output_file": "barcode_25__12349012.jpg"
+  },
+  {
+    "source_image": "barcode_26.jpg",
+    "decoded": true,
+    "data": "120-122-10",
+    "type": "Code 128",
+    "orientation": 0,
+    "quad": {
+      "top_left": [
+        625,
+        898
+      ],
+      "top_right": [
+        1602,
+        898
+      ],
+      "bottom_right": [
+        1602,
+        1166
+      ],
+      "bottom_left": [
+        624,
+        1166
+      ]
+    },
+    "output_file": "barcode_26__120-122-10.jpg"
+  },
+  {
+    "source_image": "barcode_27.jpg",
+    "decoded": true,
+    "data": "12349012",
+    "type": "EAN-8",
+    "orientation": 0,
+    "quad": {
+      "top_left": [
+        427,
+        700
+      ],
+      "top_right": [
+        1021,
+        700
+      ],
+      "bottom_right": [
+        1058,
+        604
+      ],
+      "bottom_left": [
+        467,
+        604
+      ]
+    },
+    "output_file": "barcode_27__12349012.jpg"
+  },
+  {
+    "source_image": "barcode_28.jpg",
+    "decoded": true,
+    "data": "ABC-1344",
+    "type": "Code 39",
+    "orientation": -90,
+    "quad": {
+      "top_left": [
+        999,
+        1570
+      ],
+      "top_right": [
+        999,
+        515
+      ],
+      "bottom_right": [
+        939,
+        504
+      ],
+      "bottom_left": [
+        939,
+        1561
+      ]
+    },
+    "output_file": "barcode_28__ABC-1344.jpg"
+  },
+  {
+    "source_image": "barcode_29.jpg",
+    "decoded": false,
+    "data": null,
+    "type": null,
+    "orientation": null,
+    "quad": null,
+    "output_file": "barcode_29__UNREAD.jpg"
+  },
+  {
+    "source_image": "barcode_30.jpg",
+    "decoded": true,
+    "data": "120-124-20",
+    "type": "Code 128",
+    "orientation": 0,
+    "quad": {
+      "top_left": [
+        113,
+        202
+      ],
+      "top_right": [
+        575,
+        202
+      ],
+      "bottom_right": [
+        573,
+        317
+      ],
+      "bottom_left": [
+        110,
+        317
+      ]
+    },
+    "output_file": "barcode_30__120-124-20.jpg"
+  },
+  {
+    "source_image": "barcode_31.jpg",
+    "decoded": true,
+    "data": "10231272",
+    "type": "EAN-8",
+    "orientation": 180,
+    "quad": {
+      "top_left": [
+        508,
+        297
+      ],
+      "top_right": [
+        252,
+        297
+      ],
+      "bottom_right": [
+        252,
+        432
+      ],
+      "bottom_left": [
+        507,
+        432
+      ]
+    },
+    "output_file": "barcode_31__10231272.jpg"
+  },
+  {
+    "source_image": "barcode_32.jpg",
+    "decoded": true,
+    "data": "01000001",
+    "type": "Code 128",
+    "orientation": -90,
+    "quad": {
+      "top_left": [
+        257,
+        484
+      ],
+      "top_right": [
+        257,
+        106
+      ],
+      "bottom_right": [
+        193,
+        92
+      ],
+      "bottom_left": [
+        193,
+        464
+      ]
+    },
+    "output_file": "barcode_32__01000001.jpg"
+  },
+  {
+    "source_image": "barcode_33.jpg",
+    "decoded": true,
+    "data": "130-1234",
+    "type": "Code 39",
+    "orientation": 90,
+    "quad": {
+      "top_left": [
+        570,
+        314
+      ],
+      "top_right": [
+        570,
+        796
+      ],
+      "bottom_right": [
+        442,
+        796
+      ],
+      "bottom_left": [
+        442,
+        308
+      ]
+    },
+    "output_file": "barcode_33__130-1234.jpg"
+  },
+  {
+    "source_image": "barcode_34.jpg",
+    "decoded": true,
+    "data": "10645239",
+    "type": "EAN-8",
+    "orientation": 0,
+    "quad": {
+      "top_left": [
+        82,
+        162
+      ],
+      "top_right": [
+        334,
+        162
+      ],
+      "bottom_right": [
+        331,
+        295
+      ],
+      "bottom_left": [
+        80,
+        295
+      ]
+    },
+    "output_file": "barcode_34__10645239.jpg"
+  },
+  {
+    "source_image": "barcode_35.jpg",
+    "decoded": true,
+    "data": "130-1344",
+    "type": "Code 39",
+    "orientation": 0,
+    "quad": {
+      "top_left": [
+        147,
+        144
+      ],
+      "top_right": [
+        636,
+        144
+      ],
+      "bottom_right": [
+        629,
+        243
+      ],
+      "bottom_left": [
+        142,
+        243
+      ]
+    },
+    "output_file": "barcode_35__130-1344.jpg"
+  },
+  {
+    "source_image": "barcode_36.jpg",
+    "decoded": true,
+    "data": "01100100",
+    "type": "Code 128",
+    "orientation": 0,
+    "quad": {
+      "top_left": [
+        106,
+        269
+      ],
+      "top_right": [
+        469,
+        269
+      ],
+      "bottom_right": [
+        459,
+        419
+      ],
+      "bottom_left": [
+        98,
+        419
+      ]
+    },
+    "output_file": "barcode_36__01100100.jpg"
+  },
+  {
+    "source_image": "barcode_37.jpg",
+    "decoded": true,
+    "data": "01100100",
+    "type": "Code 128",
+    "orientation": 0,
+    "quad": {
+      "top_left": [
+        1198,
+        1452
+      ],
+      "top_right": [
+        1561,
+        1452
+      ],
+      "bottom_right": [
+        1551,
+        1593
+      ],
+      "bottom_left": [
+        1190,
+        1593
+      ]
+    },
+    "output_file": "barcode_37__01100100.jpg"
+  },
+  {
+    "source_image": "barcode_38.jpg",
+    "decoded": true,
+    "data": "01101000",
+    "type": "Code 128",
+    "orientation": 0,
+    "quad": {
+      "top_left": [
+        283,
+        341
+      ],
+      "top_right": [
+        639,
+        341
+      ],
+      "bottom_right": [
+        655,
+        440
+      ],
+      "bottom_left": [
+        299,
+        440
+      ]
+    },
+    "output_file": "barcode_38__01101000.jpg"
+  },
+  {
+    "source_image": "barcode_39.jpg",
+    "decoded": true,
+    "data": "12345878",
+    "type": "EAN-8",
+    "orientation": 0,
+    "quad": {
+      "top_left": [
+        216,
+        286
+      ],
+      "top_right": [
+        503,
+        286
+      ],
+      "bottom_right": [
+        526,
+        407
+      ],
+      "bottom_left": [
+        237,
+        407
+      ]
+    },
+    "output_file": "barcode_39__12345878.jpg"
+  }
+]

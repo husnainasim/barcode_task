@@ -5,5 +5,5 @@
 !.gitignore
 !README.md
 !barcode_labels.py
-!barcode_labels_output_v2/
-!barcode_labels_output_v2/**
+!barcode_labels_output/
+!barcode_labels_output/**
