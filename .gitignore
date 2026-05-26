@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except what we want to submit
+!.gitignore
+!README.md
+!barcode_labels.py
+!barcode_labels_output_v2/
+!barcode_labels_output_v2/**
